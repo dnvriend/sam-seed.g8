@@ -1,4 +1,4 @@
-addSbtPlugin("com.github.dnvriend" % "sbt-sam-plugin" % "1.0.7")
+addSbtPlugin("com.github.dnvriend" % "sbt-sam-plugin" % "1.0.8")
 
 resolvers += Resolver.url("bintray-dnvriend-ivy-sbt-plugins", url("http://dl.bintray.com/dnvriend/sbt-plugins"))(Resolver.ivyStylePatterns)
 resolvers += Resolver.bintrayRepo("dnvriend", "maven") 
